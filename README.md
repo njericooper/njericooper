@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy 👋 🤠 
+# I'm Njeri, but you can call me Coop.
 
 <!--
 **njericooper/njericooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
