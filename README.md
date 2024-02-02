@@ -1,6 +1,9 @@
 ### Howdy 👋 🤠 
 # I'm Njeri, but you can call me Coop.
-
+- 🔭 I’m currently working on brushing up my skills
+- 🌱 I’m currently learning AWS and Microsoft Certs
+- 📫 How to reach me: [hello@njeri.codes](mailto:hello@njeri.codes)
+- 😄 Pronouns: she/her
 <!--
 **njericooper/njericooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
